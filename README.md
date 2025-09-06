@@ -1,4 +1,4 @@
-# clsInputValidate
+# C++ Input Validate Library
 
 `clsInputValidate` is a powerful 🔥  **C++ utility class** for handling **user input validation** in console-based applications.  
 It ensures safer and cleaner input management by forcing correct values through validation loops until valid input is entered.
